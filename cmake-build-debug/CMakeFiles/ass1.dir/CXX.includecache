@@ -1,0 +1,134 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/AnomalyDetector.h
+string
+-
+vector
+-
+timeseries.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/timeseries.h
+cmath
+-
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/CLI.h
+string
+-
+commands.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/commands.h
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/HybridAnomalyDetector.h
+SimpleAnomalyDetector.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/SimpleAnomalyDetector.h
+minCircle.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/minCircle.h
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/MainTrain.cpp
+iostream
+-
+fstream
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+pthread.h
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+time.h
+-
+Server.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/Server.h
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/Server.h
+CLI.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/CLI.h
+sys/socket.h
+-
+netinet/in.h
+-
+pthread.h
+-
+thread
+-
+cstring
+-
+sstream
+-
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/SimpleAnomalyDetector.h
+anomaly_detection_util.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/anomaly_detection_util.h
+AnomalyDetector.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/AnomalyDetector.h
+minCircle.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/minCircle.h
+vector
+-
+algorithm
+-
+cstring
+-
+cmath
+-
+map
+-
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/anomaly_detection_util.h
+iostream
+-
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/commands.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+HybridAnomalyDetector.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/HybridAnomalyDetector.h
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/minCircle.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+time.h
+-
+anomaly_detection_util.h
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/anomaly_detection_util.h
+
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/timeseries.h
+iostream
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/iostream
+fstream
+-
+vector
+-
+sstream
+-
+map
+-
+

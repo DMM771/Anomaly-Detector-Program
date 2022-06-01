@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ass1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ass1">
+				<Option output="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/ass1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 ass1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ass1/fast">
+				<Option output="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/ass1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 ass1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/AnomalyDetector.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/CLI.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/CLI.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/HybridAnomalyDetector.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/HybridAnomalyDetector.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/MainTrain.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/Server.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/Server.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/SimpleAnomalyDetector.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/SimpleAnomalyDetector.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/anomaly_detection_util.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/anomaly_detection_util.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/commands.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/minCircle.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/minCircle.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/timeseries.cpp">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/timeseries.h">
+			<Option target="ass1"/>
+		</Unit>
+		<Unit filename="C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

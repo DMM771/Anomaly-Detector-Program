@@ -1,0 +1,3 @@
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/CMakeFiles/ass1.dir
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dmmon/Desktop/Computer Science/year 2/Semester 1/Advanced programing 1/AS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
